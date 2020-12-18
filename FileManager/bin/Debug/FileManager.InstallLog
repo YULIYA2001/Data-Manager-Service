@@ -1,0 +1,245 @@
+﻿Выполняется установка сборки 'C:\YCHEBA\ИСП\Lab4\FileManager\bin\Debug\FileManager.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = C:\YCHEBA\ИСП\Lab4\FileManager\bin\Debug\FileManager.exe
+   logfile = C:\YCHEBA\ИСП\Lab4\FileManager\bin\Debug\FileManager.InstallLog
+Устанавливается служба Lab4FileManagerService...
+Служба Lab4FileManagerService успешно установлена.
+Создается исходный EventLog Lab4FileManagerService в журнале Application...
+Выполняется фиксация сборки 'C:\YCHEBA\ИСП\Lab4\FileManager\bin\Debug\FileManager.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = C:\YCHEBA\ИСП\Lab4\FileManager\bin\Debug\FileManager.exe
+   logfile = C:\YCHEBA\ИСП\Lab4\FileManager\bin\Debug\FileManager.InstallLog
+Выполняется удаление сборки 'C:\YCHEBA\ИСП\Lab4\FileManager\bin\Debug\FileManager.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = C:\YCHEBA\ИСП\Lab4\FileManager\bin\Debug\FileManager.exe
+   logfile = C:\YCHEBA\ИСП\Lab4\FileManager\bin\Debug\FileManager.InstallLog
+Выполняется удаление источника EventLog Lab4FileManagerService.
+Выполняется удаление службы Lab4FileManagerService из системы...
+Служба Lab4FileManagerService успешно удалена из системы.
+Попытка останова службы Lab4FileManagerService.
+Выполняется установка сборки 'C:\YCHEBA\ИСП\Lab4\FileManager\bin\Debug\FileManager.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = C:\YCHEBA\ИСП\Lab4\FileManager\bin\Debug\FileManager.exe
+   logfile = C:\YCHEBA\ИСП\Lab4\FileManager\bin\Debug\FileManager.InstallLog
+Устанавливается служба Lab4FileManagerService...
+Служба Lab4FileManagerService успешно установлена.
+Создается исходный EventLog Lab4FileManagerService в журнале Application...
+Выполняется фиксация сборки 'C:\YCHEBA\ИСП\Lab4\FileManager\bin\Debug\FileManager.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = C:\YCHEBA\ИСП\Lab4\FileManager\bin\Debug\FileManager.exe
+   logfile = C:\YCHEBA\ИСП\Lab4\FileManager\bin\Debug\FileManager.InstallLog
+Выполняется удаление сборки 'C:\YCHEBA\ИСП\Lab4\FileManager\bin\Debug\FileManager.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = C:\YCHEBA\ИСП\Lab4\FileManager\bin\Debug\FileManager.exe
+   logfile = C:\YCHEBA\ИСП\Lab4\FileManager\bin\Debug\FileManager.InstallLog
+Выполняется удаление источника EventLog Lab4FileManagerService.
+Выполняется удаление службы Lab4FileManagerService из системы...
+Служба Lab4FileManagerService успешно удалена из системы.
+Выполняется установка сборки 'C:\YCHEBA\ИСП\Lab4\FileManager\bin\Debug\FileManager.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = C:\YCHEBA\ИСП\Lab4\FileManager\bin\Debug\FileManager.exe
+   logfile = C:\YCHEBA\ИСП\Lab4\FileManager\bin\Debug\FileManager.InstallLog
+Устанавливается служба Lab4FileManagerService...
+Служба Lab4FileManagerService успешно установлена.
+Создается исходный EventLog Lab4FileManagerService в журнале Application...
+Выполняется фиксация сборки 'C:\YCHEBA\ИСП\Lab4\FileManager\bin\Debug\FileManager.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = C:\YCHEBA\ИСП\Lab4\FileManager\bin\Debug\FileManager.exe
+   logfile = C:\YCHEBA\ИСП\Lab4\FileManager\bin\Debug\FileManager.InstallLog
+Выполняется удаление сборки 'C:\YCHEBA\ИСП\Lab4\FileManager\bin\Debug\FileManager.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = C:\YCHEBA\ИСП\Lab4\FileManager\bin\Debug\FileManager.exe
+   logfile = C:\YCHEBA\ИСП\Lab4\FileManager\bin\Debug\FileManager.InstallLog
+Выполняется удаление источника EventLog Lab4FileManagerService.
+Выполняется удаление службы Lab4FileManagerService из системы...
+Служба Lab4FileManagerService успешно удалена из системы.
+Выполняется установка сборки 'C:\YCHEBA\ИСП\Lab4\FileManager\bin\Debug\FileManager.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = C:\YCHEBA\ИСП\Lab4\FileManager\bin\Debug\FileManager.exe
+   logfile = C:\YCHEBA\ИСП\Lab4\FileManager\bin\Debug\FileManager.InstallLog
+Устанавливается служба Lab4FileManagerService...
+Служба Lab4FileManagerService успешно установлена.
+Создается исходный EventLog Lab4FileManagerService в журнале Application...
+Выполняется фиксация сборки 'C:\YCHEBA\ИСП\Lab4\FileManager\bin\Debug\FileManager.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = C:\YCHEBA\ИСП\Lab4\FileManager\bin\Debug\FileManager.exe
+   logfile = C:\YCHEBA\ИСП\Lab4\FileManager\bin\Debug\FileManager.InstallLog
+Выполняется удаление сборки 'C:\YCHEBA\ИСП\Lab4\FileManager\bin\Debug\FileManager.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = C:\YCHEBA\ИСП\Lab4\FileManager\bin\Debug\FileManager.exe
+   logfile = C:\YCHEBA\ИСП\Lab4\FileManager\bin\Debug\FileManager.InstallLog
+Выполняется удаление источника EventLog Lab4FileManagerService.
+Выполняется удаление службы Lab4FileManagerService из системы...
+Служба Lab4FileManagerService успешно удалена из системы.
+Выполняется установка сборки 'C:\YCHEBA\ИСП\Lab4\FileManager\bin\Debug\FileManager.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = C:\YCHEBA\ИСП\Lab4\FileManager\bin\Debug\FileManager.exe
+   logfile = C:\YCHEBA\ИСП\Lab4\FileManager\bin\Debug\FileManager.InstallLog
+Устанавливается служба Lab4FileManagerService...
+Служба Lab4FileManagerService успешно установлена.
+Создается исходный EventLog Lab4FileManagerService в журнале Application...
+Выполняется фиксация сборки 'C:\YCHEBA\ИСП\Lab4\FileManager\bin\Debug\FileManager.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = C:\YCHEBA\ИСП\Lab4\FileManager\bin\Debug\FileManager.exe
+   logfile = C:\YCHEBA\ИСП\Lab4\FileManager\bin\Debug\FileManager.InstallLog
+Выполняется удаление сборки 'C:\YCHEBA\ИСП\Lab4\FileManager\bin\Debug\FileManager.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = C:\YCHEBA\ИСП\Lab4\FileManager\bin\Debug\FileManager.exe
+   logfile = C:\YCHEBA\ИСП\Lab4\FileManager\bin\Debug\FileManager.InstallLog
+Выполняется удаление источника EventLog Lab4FileManagerService.
+Выполняется удаление службы Lab4FileManagerService из системы...
+Служба Lab4FileManagerService успешно удалена из системы.
+Выполняется установка сборки 'C:\YCHEBA\ИСП\Lab4\FileManager\bin\Debug\FileManager.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = C:\YCHEBA\ИСП\Lab4\FileManager\bin\Debug\FileManager.exe
+   logfile = C:\YCHEBA\ИСП\Lab4\FileManager\bin\Debug\FileManager.InstallLog
+Устанавливается служба Lab4FileManagerService...
+Служба Lab4FileManagerService успешно установлена.
+Создается исходный EventLog Lab4FileManagerService в журнале Application...
+Выполняется фиксация сборки 'C:\YCHEBA\ИСП\Lab4\FileManager\bin\Debug\FileManager.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = C:\YCHEBA\ИСП\Lab4\FileManager\bin\Debug\FileManager.exe
+   logfile = C:\YCHEBA\ИСП\Lab4\FileManager\bin\Debug\FileManager.InstallLog
+Выполняется удаление сборки 'C:\YCHEBA\ИСП\Lab4\FileManager\bin\Debug\FileManager.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = C:\YCHEBA\ИСП\Lab4\FileManager\bin\Debug\FileManager.exe
+   logfile = C:\YCHEBA\ИСП\Lab4\FileManager\bin\Debug\FileManager.InstallLog
+Выполняется удаление источника EventLog Lab4FileManagerService.
+Выполняется удаление службы Lab4FileManagerService из системы...
+Служба Lab4FileManagerService успешно удалена из системы.
+Выполняется установка сборки 'C:\YCHEBA\ИСП\Lab4\FileManager\bin\Debug\FileManager.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = C:\YCHEBA\ИСП\Lab4\FileManager\bin\Debug\FileManager.exe
+   logfile = C:\YCHEBA\ИСП\Lab4\FileManager\bin\Debug\FileManager.InstallLog
+Устанавливается служба Lab4FileManagerService...
+Служба Lab4FileManagerService успешно установлена.
+Создается исходный EventLog Lab4FileManagerService в журнале Application...
+Выполняется фиксация сборки 'C:\YCHEBA\ИСП\Lab4\FileManager\bin\Debug\FileManager.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = C:\YCHEBA\ИСП\Lab4\FileManager\bin\Debug\FileManager.exe
+   logfile = C:\YCHEBA\ИСП\Lab4\FileManager\bin\Debug\FileManager.InstallLog
+Выполняется удаление сборки 'C:\YCHEBA\ИСП\Lab4\FileManager\bin\Debug\FileManager.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = C:\YCHEBA\ИСП\Lab4\FileManager\bin\Debug\FileManager.exe
+   logfile = C:\YCHEBA\ИСП\Lab4\FileManager\bin\Debug\FileManager.InstallLog
+Выполняется удаление источника EventLog Lab4FileManagerService.
+Выполняется удаление службы Lab4FileManagerService из системы...
+Служба Lab4FileManagerService успешно удалена из системы.
+Выполняется установка сборки 'C:\YCHEBA\ИСП\Lab4\FileManager\bin\Debug\FileManager.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = C:\YCHEBA\ИСП\Lab4\FileManager\bin\Debug\FileManager.exe
+   logfile = C:\YCHEBA\ИСП\Lab4\FileManager\bin\Debug\FileManager.InstallLog
+Устанавливается служба Lab4FileManagerService...
+Служба Lab4FileManagerService успешно установлена.
+Создается исходный EventLog Lab4FileManagerService в журнале Application...
+Выполняется фиксация сборки 'C:\YCHEBA\ИСП\Lab4\FileManager\bin\Debug\FileManager.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = C:\YCHEBA\ИСП\Lab4\FileManager\bin\Debug\FileManager.exe
+   logfile = C:\YCHEBA\ИСП\Lab4\FileManager\bin\Debug\FileManager.InstallLog
+Выполняется удаление сборки 'C:\YCHEBA\ИСП\Lab4\FileManager\bin\Debug\FileManager.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = C:\YCHEBA\ИСП\Lab4\FileManager\bin\Debug\FileManager.exe
+   logfile = C:\YCHEBA\ИСП\Lab4\FileManager\bin\Debug\FileManager.InstallLog
+Выполняется удаление источника EventLog Lab4FileManagerService.
+Выполняется удаление службы Lab4FileManagerService из системы...
+Служба Lab4FileManagerService успешно удалена из системы.
+Выполняется установка сборки 'C:\YCHEBA\ИСП\Lab4\FileManager\bin\Debug\FileManager.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = C:\YCHEBA\ИСП\Lab4\FileManager\bin\Debug\FileManager.exe
+   logfile = C:\YCHEBA\ИСП\Lab4\FileManager\bin\Debug\FileManager.InstallLog
+Устанавливается служба Lab4FileManagerService...
+Служба Lab4FileManagerService успешно установлена.
+Создается исходный EventLog Lab4FileManagerService в журнале Application...
+Выполняется фиксация сборки 'C:\YCHEBA\ИСП\Lab4\FileManager\bin\Debug\FileManager.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = C:\YCHEBA\ИСП\Lab4\FileManager\bin\Debug\FileManager.exe
+   logfile = C:\YCHEBA\ИСП\Lab4\FileManager\bin\Debug\FileManager.InstallLog
+Выполняется удаление сборки 'C:\YCHEBA\ИСП\Lab4\FileManager\bin\Debug\FileManager.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = C:\YCHEBA\ИСП\Lab4\FileManager\bin\Debug\FileManager.exe
+   logfile = C:\YCHEBA\ИСП\Lab4\FileManager\bin\Debug\FileManager.InstallLog
+Выполняется удаление источника EventLog Lab4FileManagerService.
+Выполняется удаление службы Lab4FileManagerService из системы...
+Служба Lab4FileManagerService успешно удалена из системы.
+Выполняется установка сборки 'C:\YCHEBA\ИСП\Lab4\FileManager\bin\Debug\FileManager.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = C:\YCHEBA\ИСП\Lab4\FileManager\bin\Debug\FileManager.exe
+   logfile = C:\YCHEBA\ИСП\Lab4\FileManager\bin\Debug\FileManager.InstallLog
+Устанавливается служба Lab4FileManagerService...
+Служба Lab4FileManagerService успешно установлена.
+Создается исходный EventLog Lab4FileManagerService в журнале Application...
+Выполняется фиксация сборки 'C:\YCHEBA\ИСП\Lab4\FileManager\bin\Debug\FileManager.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = C:\YCHEBA\ИСП\Lab4\FileManager\bin\Debug\FileManager.exe
+   logfile = C:\YCHEBA\ИСП\Lab4\FileManager\bin\Debug\FileManager.InstallLog
+Выполняется удаление сборки 'C:\YCHEBA\ИСП\Lab4\FileManager\bin\Debug\FileManager.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = C:\YCHEBA\ИСП\Lab4\FileManager\bin\Debug\FileManager.exe
+   logfile = C:\YCHEBA\ИСП\Lab4\FileManager\bin\Debug\FileManager.InstallLog
+Выполняется удаление источника EventLog Lab4FileManagerService.
+Выполняется удаление службы Lab4FileManagerService из системы...
+Служба Lab4FileManagerService успешно удалена из системы.
+Выполняется установка сборки 'C:\YCHEBA\ИСП\Lab4\FileManager\bin\Debug\FileManager.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = C:\YCHEBA\ИСП\Lab4\FileManager\bin\Debug\FileManager.exe
+   logfile = C:\YCHEBA\ИСП\Lab4\FileManager\bin\Debug\FileManager.InstallLog
+Устанавливается служба Lab4FileManagerService...
+Служба Lab4FileManagerService успешно установлена.
+Создается исходный EventLog Lab4FileManagerService в журнале Application...
+Выполняется фиксация сборки 'C:\YCHEBA\ИСП\Lab4\FileManager\bin\Debug\FileManager.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = C:\YCHEBA\ИСП\Lab4\FileManager\bin\Debug\FileManager.exe
+   logfile = C:\YCHEBA\ИСП\Lab4\FileManager\bin\Debug\FileManager.InstallLog
+Выполняется удаление сборки 'C:\YCHEBA\ИСП\Lab4\FileManager\bin\Debug\FileManager.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = C:\YCHEBA\ИСП\Lab4\FileManager\bin\Debug\FileManager.exe
+   logfile = C:\YCHEBA\ИСП\Lab4\FileManager\bin\Debug\FileManager.InstallLog
+Выполняется удаление источника EventLog Lab4FileManagerService.
+Выполняется удаление службы Lab4FileManagerService из системы...
+Служба Lab4FileManagerService успешно удалена из системы.
+Выполняется установка сборки 'C:\YCHEBA\ИСП\Lab4\FileManager\bin\Debug\FileManager.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = C:\YCHEBA\ИСП\Lab4\FileManager\bin\Debug\FileManager.exe
+   logfile = C:\YCHEBA\ИСП\Lab4\FileManager\bin\Debug\FileManager.InstallLog
+Устанавливается служба Lab4FileManagerService...
+Служба Lab4FileManagerService успешно установлена.
+Создается исходный EventLog Lab4FileManagerService в журнале Application...
+Выполняется фиксация сборки 'C:\YCHEBA\ИСП\Lab4\FileManager\bin\Debug\FileManager.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = C:\YCHEBA\ИСП\Lab4\FileManager\bin\Debug\FileManager.exe
+   logfile = C:\YCHEBA\ИСП\Lab4\FileManager\bin\Debug\FileManager.InstallLog

@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<settings>
+    <sourceDirectoryPath>C:\\LAB4\\SourceDirectory</sourceDirectoryPath>
+    <targetDirectoryPath>C:\\LAB4\\TargetDirectory</targetDirectoryPath>
+    <targetArchivePath>C:\\LAB4\\TargetDirectory\\archive</targetArchivePath>
+    <key>15</key>
+    <id>1</id>
+    <DataSource>WIN-85PGJ6TQOHN\\SQLEXPRESS</DataSource>
+    <InitialCatalog>AdventureWorks2017</InitialCatalog>
+    <IntegratedSecurity>True</IntegratedSecurity>
+    <XmlDirectory>C:\\Lab4\\XmlFilesDB</XmlDirectory>
+</settings>

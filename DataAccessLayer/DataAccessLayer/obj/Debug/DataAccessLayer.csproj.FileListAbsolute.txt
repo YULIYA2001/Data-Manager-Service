@@ -1,0 +1,5 @@
+C:\YCHEBA\ИСП\Lab4\DataAccessLayer\DataAccessLayer\bin\Debug\DataAccessLayer.dll
+C:\YCHEBA\ИСП\Lab4\DataAccessLayer\DataAccessLayer\bin\Debug\DataAccessLayer.pdb
+C:\YCHEBA\ИСП\Lab4\DataAccessLayer\DataAccessLayer\obj\Debug\DataAccessLayer.csproj.CoreCompileInputs.cache
+C:\YCHEBA\ИСП\Lab4\DataAccessLayer\DataAccessLayer\obj\Debug\DataAccessLayer.dll
+C:\YCHEBA\ИСП\Lab4\DataAccessLayer\DataAccessLayer\obj\Debug\DataAccessLayer.pdb
