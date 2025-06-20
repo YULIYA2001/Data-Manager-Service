@@ -36,4 +36,4 @@ xml файл данных о человеке с полученным id и пе
 - файлы с настройками xml и json лежат и тут C:\YCHEBA\ИСП\Lab4\FileManager\bin\Debug, и тут C:\YCHEBA\ИСП\Lab4\DataManager\DataManager\bin\Debug
 - согласно xml и json все директории (Source, Target и для xml  файла с данными о человеке, а также templog.txt) бутут по пути C:\\Lab4\\(создается сам)
 ## Видео работы служб
-https://github.com/YULIYA2001/VideoForTerm3_Lsp_lab4
+[Демонстрация работы](https://github.com/YULIYA2001/Data-Manager-Service/blob/main/bandicam%202020-12-19%2000-45-47-921.mp4)
